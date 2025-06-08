@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+/* Estilo do formulário */
+.form-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+/* Estilo da tabela */
+.table-container {
+    max-width: 90%;
+    margin: 30px auto;
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
